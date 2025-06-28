@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Far Away",
+    "img": "/img/Screenshot 2025-03-19 171703.png",
+    "url": "https://far-away-self.vercel.app/",
+    "animation": "bounceInUp"
+  },
+  {
+    "title": "Quiz App",
+    "img": "/img/download.png",
+    "url": "https://quiz-rose-eight.vercel.app/",
+    "animation": "bounceInUp"
+  },
+  {
+    "title": "Eat Split",
+    "img": "/img/Screenshot 2025-03-19 163129.png",
+    "url": "https://eat-split-two.vercel.app/",
+    "animation": "bounceInLeft"
+  },
+  {
+    "title": "Movie App",
+    "img": "/img/Movie.png",
+    "url": "https://usepopcorn-3t69.vercel.app/",
+    "animation": "bounceInDown"
+  },
+  {
+    "title": "Img Editor",
+    "img": "/img/ccc809d9-48e9-46a6-8381-e8fac9709046.jpeg",
+    "url": "https://yousefmohamed1011.github.io/Img-editor/",
+    "animation": "bounceInDown"
+  },
+  {
+    "title": "Quiz App",
+    "img": "/img/d20ad302-5394-415a-886c-d2228f8028ef.jpeg",
+    "url": "https://yousefmohamed1011.github.io/quiz-app/",
+    "animation": "bounceInRight"
+  },
+  {
+    "title": "Calculator",
+    "img": "/img/51.png",
+    "url": "https://yousefmohamed1011.github.io/calculator/",
+    "animation": "bounceInUp"
+  },
+  {
+    "title": "Business",
+    "img": "/img/e5156d23-e78a-4cc0-ab3c-b77d6ebebc46.jpeg",
+    "url": "https://project-1-rho-three.vercel.app/",
+    "animation": "bounceInUp"
+  },
+  {
+    "title": "Ecommerce",
+    "img": "/img/ecommerce.png",
+    "url": "https://ecommerce-wine-omega-25.vercel.app/",
+    "animation": "bounceInLeft"
+  },
+  {
+    "title": "Seo Company",
+    "img": "/img/3dca6767-f2c3-41b2-8dbc-63e7ccc9ed1c.jpeg",
+    "url": "https://seo-qh3p.vercel.app/",
+    "animation": "bounceInDown"
+  }
+]
